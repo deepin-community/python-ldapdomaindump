@@ -1,1 +1,5 @@
-.pc/
+build/
+dist/
+ldapdomaindump.egg-info
+domainlookup.py
+*.pyc

@@ -1,3 +1,37 @@
+python-ldapdomaindump (0.9.4-2) unstable; urgency=medium
+
+  * Team upload
+  * Cherry-pick upstream commit to drop future requirement
+    (Closes: #1058953)
+
+ -- Graham Inggs <ginggs@debian.org>  Thu, 04 Jan 2024 20:34:22 +0000
+
+python-ldapdomaindump (0.9.4-1) unstable; urgency=medium
+
+  * d/control: Bump standards version to 4.6.2 (from 4.6.1; no changes
+    needed).
+  * d/control: Update my contact information. Also update in d/copyright.
+  * New upstream release.
+
+ -- Emmanuel Arias <eamanu@debian.org>  Fri, 13 Oct 2023 19:36:03 -0300
+
+python-ldapdomaindump (0.9.3-2) unstable; urgency=low
+
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+
+  [ Ondřej Nový ]
+  * d/control: Update Maintainer field with new Debian Python Team
+    contact address.
+  * d/control: Update Vcs-* fields with new Debian Python Team Salsa
+    layout.
+
+  [ Debian Janitor ]
+  * Update standards version to 4.5.1, no changes needed.
+
+ -- Sandro Tosi <morph@debian.org>  Fri, 03 Jun 2022 14:39:59 -0400
+
 python-ldapdomaindump (0.9.3-1) unstable; urgency=medium
 
   * Team upload.
